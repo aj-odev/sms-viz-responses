@@ -1,5 +1,7 @@
 # WCA Visualize Response
 
+THIS PROJECT IS NOW OBSOLETE. DO NOT USE!!!
+
 This repository is a simple small project to gather SMS link clicks (Karix-Visualize) responses and store in the database. This will be typically used when 
 1. you want to know if a the recipient has clicked on a shortened link in SMS and take action in real time
 1. you want to get the shortened link click and store it in your database for reporting purposes
